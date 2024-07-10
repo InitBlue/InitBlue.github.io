@@ -1,3 +1,3 @@
-# pianfan.github.io
+# InitBlue.github.io
 
 My Personal Blog via GitHub
